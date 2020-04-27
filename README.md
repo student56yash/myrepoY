@@ -12,4 +12,4 @@ example Rscript /Rmd
 Rstudio Version 2.2.1335 and R version 3.6.3
 
 ## Credits
-Yash
+Yash suha
